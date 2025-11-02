@@ -5,7 +5,8 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SoumayaEssefi/count.svg?" />
+  <!-- 👇 Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=SoumayaEssefi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
 </div>
 
 ###
